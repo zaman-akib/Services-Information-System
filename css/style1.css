@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 70vh;
+}
+
+.bg-img {
+    background-image: url("images/banner.png");
+    min-width: 100%;
+    min-height: 80%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
